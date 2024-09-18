@@ -37,7 +37,7 @@ const Login = ({navigation}) => {
     <View style={styles.mainViewStyle}>
 
       <Text>Hello </Text>
-     
+     <Text>This is Login Page</Text>
     </View>
   );
 };
